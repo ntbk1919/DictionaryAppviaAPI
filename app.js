@@ -1,6 +1,6 @@
 let input=document.querySelector('#input')
 let searchBtn=document.querySelector('#search')
-let apiKey='366128c6-3c8d-4c74-afed-cdc2028f2dba'
+let apiKey='API KEY HERE'
 let notFound=document.querySelector('.not_found')
 let loading=document.querySelector('.loading')
 let defBox=document.querySelector('.def')
